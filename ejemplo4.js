@@ -13,6 +13,9 @@ const app = new Vue({
                 'bg-succes' : this.contador <= 10,
                 'bg-warning' : this.contador > 10 && this.contador < 20,
                 'bg-danger' : this.contador >= 20
+                // Prueba Git.
+                // Prueba Git.
+                // Prueba Git.
             }
         }
     }
