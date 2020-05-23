@@ -16,6 +16,7 @@ const app = new Vue({
                 // Prueba Git.
                 // Prueba Git.
                 // Prueba Git.
+                //Mensaje "Pelota" para verificar commit.
             }
         }
     }
